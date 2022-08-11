@@ -9,7 +9,7 @@
 
 _Get started using GitHub in less than an hour._
 
-But maybe longer or shorter...
+But maybe longer or shorter... I don't know how long it will take, TBH.
 
 <!-- 
   <<< Author notes: Start of the course >>> 
